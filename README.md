@@ -6,4 +6,4 @@ Usted puede:
   - Ocupar cualquier lenguaje
   - Ocupar cualquier framework web o similiar
 
-al finalizar la alicacion debe mostrar en ambas partes cual es la llave sincronizada
+al finalizar la aplicacion debe mostrar en ambas partes cual es la llave sincronizada
